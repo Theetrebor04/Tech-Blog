@@ -28,6 +28,8 @@ The following necessary dependencies must be installed to run the application pr
 
 ​This application is used for Allowing users to interact with other users interested in tech.
 
+Video: https://drive.google.com/file/d/1y5n5itY1FizfWVNhZGKA0ElQwRD1p6pW/view
+
 # License
 This project is license under the undefined license.
 
